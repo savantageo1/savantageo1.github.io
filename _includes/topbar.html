@@ -47,11 +47,12 @@
     <i id="sidebar-trigger" class="fas fa-bars fa-fw"></i>
 
     <div id="topbar-title">
-      {% if page.layout == 'home' %}
-        {{- site.title -}}
+      {% if page.title == 'home' %}
+        <span>{{ 'Home' }}</span>
       {% elsif page.dynamic_title %}
         {{- page.title -}}
       {% else %}
+
         {{- page.layout | capitalize -}}
       {% endif %}
     </div>
