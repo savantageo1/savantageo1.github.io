@@ -9,7 +9,7 @@ order: 2
 | Cover&Link | Description | Credits|
 |    :-:   |    :-:   |    :-:   |
 | [![](https://i.imgur.com/oU4PWwY.jpg)](https://drive.google.com/file/d/1CxJj7FJpMN2RZh8KBUEr459zdeFOKV-n/view){:class="img-responsive"}{:target="_blank"}| Tanktop Owl Inspiration |Written & Drawn: Rid O1|
-| [![](https://i.imgur.com/6iD1k0j.png)](https://drive.google.com/file/d/1CxJj7FJpMN2RZh8KBUEr459zdeFOKV-n/view){:class="img-responsive"}{:target="_blank"}| When Jaco breaks in to steal a diamond, <br /> a mysterious pen catches his eye. He's in for an <br /> adventure beyond his wildest dreams. |Written & Drawn: Rid O1|
+| [![](https://i.imgur.com/6iD1k0j.png)](https://drive.google.com/file/d/1W_rb8gx4G7gm1vDWYYtdATY8-V1lqGQ6/view?usp=sharing){:class="img-responsive"}{:target="_blank"}| When Jaco breaks in to steal a diamond, <br /> a mysterious pen catches his eye. He's in for an <br /> adventure beyond his wildest dreams. |Written & Drawn: Rid O1|
 
 
 
@@ -17,8 +17,8 @@ order: 2
 
 | Cover&Link | Description | Credits|
 |    :-:   |    :-:   |    :-:   |
-| [![](https://i.imgur.com/K4qLV5L.jpg)](https://rid1studios.com/assets/pdfs/TheNavigatorsIssue2.pdf){:class="img-responsive"}{:target="_blank"}| ÜberLife, The Conglomerate™ is at <br /> it again! Join Xandi and her Navigator, Torpe-Do, as <br /> they break Xandi's father out of jail! <br /> An action-packed, emotional adventure! |Illustrated by [Marc Oliver](https://www.instagram.com/marcoliversketchs/?hl=en) |
-| [![](https://i.imgur.com/6CYEYqM.jpg)](https://drive.google.com/file/d/1CxJj7FJpMN2RZh8KBUEr459zdeFOKV-n/view){:class="img-responsive"}{:target="_blank"}| Often times, the only way to...is THROUGH! |Written & Drawn: Rid O1|
+| [![](https://i.imgur.com/K4qLV5L.jpg)](https://drive.google.com/file/d/1WBFa97hQom3ojadOhI0rK5IAv4_qnInu/view?usp=sharing){:class="img-responsive"}{:target="_blank"}| ÜberLife, The Conglomerate™ is at <br /> it again! Join Xandi and her Navigator, Torpe-Do, as <br /> they break Xandi's father out of jail! <br /> An action-packed, emotional adventure! |Illustrated by [Marc Oliver](https://www.instagram.com/marcoliversketchs/?hl=en) |
+| [![](https://i.imgur.com/6CYEYqM.jpg)](https://drive.google.com/file/d/1C24pPK8-wcIC8AUc2SP-Le_fcUUDDcu3/view?usp=sharing){:class="img-responsive"}{:target="_blank"}| Often times, the only way to...is THROUGH! |Written & Drawn: Rid O1|
 
 
 ## 2018
