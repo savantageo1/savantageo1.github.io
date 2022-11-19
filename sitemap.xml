@@ -3,18 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rid1studios.com/comics/comic-5/</loc>
-    <lastmod>2022-06-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rid1studios.com/comics/comic-1/</loc>
-    <lastmod>2020-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://rid1studios.com/comics/comic-4/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <lastmod>2022-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
@@ -28,22 +18,32 @@
   </url>
   
   <url>
-    <loc>https://rid1studios.com/comics/</loc>
-    <lastmod>2022-06-17T11:22:16+06:00</lastmod>
+    <loc>https://rid1studios.com/comics/comic-1/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rid1studios.com/</loc>
-    <lastmod>2022-06-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rid1studios.com/blog-copy/</loc>
-    <lastmod>2022-02-23T15:11:00-05:00</lastmod>
+    <loc>https://rid1studios.com/blog/post-2/</loc>
+    <lastmod>2022-11-18T15:11:00-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://rid1studios.com/blog/</loc>
+    <lastmod>2022-11-18T15:11:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rid1studios.com/</loc>
+    <lastmod>2022-11-18T15:11:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rid1studios.com/comics/</loc>
+    <lastmod>2022-10-17T11:22:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rid1studios.com/blog-copy/</loc>
     <lastmod>2022-02-23T15:11:00-05:00</lastmod>
   </url>
   
